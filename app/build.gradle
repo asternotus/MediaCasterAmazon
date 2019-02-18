@@ -10,8 +10,8 @@ android {
 
     defaultConfig {
         applicationId "com.mediacasteramazon.wizzard.amazonmediacaster"
-        minSdkVersion 19
-        targetSdkVersion 28
+        minSdkVersion rootProject.ext.minSdkVersion as Integer
+        targetSdkVersion rootProject.ext.targetSdkVersion as Integer
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
@@ -63,8 +63,7 @@ dependencies {
     implementation "android.arch.lifecycle:reactivestreams:1.1.1"
 
     annotationProcessor "android.arch.lifecycle:compiler:1.1.1"
-
-    // Paging
+    
     implementation "android.arch.paging:runtime:1.0.0-rc1"
 
     // Test helpers for LiveData
