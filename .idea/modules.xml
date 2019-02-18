@@ -3,7 +3,20 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MediaCasterAmazon.iml" filepath="$PROJECT_DIR$/MediaCasterAmazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaCasterAmazonSDK/MediaCasterAmazonSDK.iml" filepath="$PROJECT_DIR$/MediaCasterAmazonSDK/MediaCasterAmazonSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaCasterAmazonSDK/KudosUtils/MediaCasterAmazonSDK-KudosUtils.iml" filepath="$PROJECT_DIR$/MediaCasterAmazonSDK/KudosUtils/MediaCasterAmazonSDK-KudosUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaCasterAmazonSDK/connect-sdk-wrapper/MediaCasterAmazonSDK-connect-sdk-wrapper.iml" filepath="$PROJECT_DIR$/MediaCasterAmazonSDK/connect-sdk-wrapper/MediaCasterAmazonSDK-connect-sdk-wrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaCasterAmazonSDK/ffmpeg-media-transcoding/MediaCasterAmazonSDK-ffmpeg-media-transcoding.iml" filepath="$PROJECT_DIR$/MediaCasterAmazonSDK/ffmpeg-media-transcoding/MediaCasterAmazonSDK-ffmpeg-media-transcoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaCasterAmazonSDK/kudos-cast/MediaCasterAmazonSDK-kudos-cast.iml" filepath="$PROJECT_DIR$/MediaCasterAmazonSDK/kudos-cast/MediaCasterAmazonSDK-kudos-cast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaCasterAmazonSDK/local-media-sharing/MediaCasterAmazonSDK-local-media-sharing.iml" filepath="$PROJECT_DIR$/MediaCasterAmazonSDK/local-media-sharing/MediaCasterAmazonSDK-local-media-sharing.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaCasterAmazonSDK/connect-sdk-wrapper/connect-sdk/connect-sdk-wrapper-connect-sdk.iml" filepath="$PROJECT_DIR$/MediaCasterAmazonSDK/connect-sdk-wrapper/connect-sdk/connect-sdk-wrapper-connect-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaCasterAmazonSDK/connect-sdk-wrapper/connectsdkwrapper/connect-sdk-wrapper-connectsdkwrapper.iml" filepath="$PROJECT_DIR$/MediaCasterAmazonSDK/connect-sdk-wrapper/connectsdkwrapper/connect-sdk-wrapper-connectsdkwrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaCasterAmazonSDK/connect-sdk-wrapper/samsunglegacymultiscreen/connect-sdk-wrapper-samsunglegacymultiscreen.iml" filepath="$PROJECT_DIR$/MediaCasterAmazonSDK/connect-sdk-wrapper/samsunglegacymultiscreen/connect-sdk-wrapper-samsunglegacymultiscreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaCasterAmazonSDK/connect-sdk-wrapper/samsungmultiscreen/connect-sdk-wrapper-samsungmultiscreen.iml" filepath="$PROJECT_DIR$/MediaCasterAmazonSDK/connect-sdk-wrapper/samsungmultiscreen/connect-sdk-wrapper-samsungmultiscreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaCasterAmazonSDK/connect-sdk-wrapper/simplejson/connect-sdk-wrapper-simplejson.iml" filepath="$PROJECT_DIR$/MediaCasterAmazonSDK/connect-sdk-wrapper/simplejson/connect-sdk-wrapper-simplejson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaCasterAmazonSDK/ffmpeg-media-transcoding/FFmpegAndroid/ffmpeg-media-transcoding-FFmpegAndroid.iml" filepath="$PROJECT_DIR$/MediaCasterAmazonSDK/ffmpeg-media-transcoding/FFmpegAndroid/ffmpeg-media-transcoding-FFmpegAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaCasterAmazonSDK/ffmpeg-media-transcoding/ffmpegtranscoding/ffmpeg-media-transcoding-ffmpegtranscoding.iml" filepath="$PROJECT_DIR$/MediaCasterAmazonSDK/ffmpeg-media-transcoding/ffmpegtranscoding/ffmpeg-media-transcoding-ffmpegtranscoding.iml" />
     </modules>
   </component>
 </project>
